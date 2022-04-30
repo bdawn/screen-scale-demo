@@ -1,0 +1,21 @@
+{
+  "name": "ss-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "author": "bdawn",
+  "license": "ISC",
+  "devDependencies": {
+    "vite": "^2.9.6",
+    "@vitejs/plugin-vue": "^2.3.1"
+  },
+  "dependencies": {
+    "screen-scale": "^1.0.0",
+    "vue": "^3.2.33"
+  }
+}
